@@ -17,6 +17,12 @@ public class ReversString {
 
         System.out.println("Original String: " + str);
 
+        // loop for Reverse String
+        for(int i = 0; i < str.length(); i++){
+            ch = str.charAt(i);
+            nstr = ch+nstr;
+        }
+        System.out.println("Reverse String: "+ nstr);
 
     }
 }
