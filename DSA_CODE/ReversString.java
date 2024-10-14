@@ -19,8 +19,8 @@ public class ReversString {
 
         // loop for Reverse String
         for(int i = 0; i < str.length(); i++){
-            ch = str.charAt(i);
-            nstr = ch+nstr;
+            ch = str.charAt(i); //extracts each character
+            nstr = ch+nstr; //adds each character in front of the existing string
         }
         System.out.println("Reverse String: "+ nstr);
 
