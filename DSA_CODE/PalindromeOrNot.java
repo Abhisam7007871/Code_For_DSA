@@ -5,7 +5,6 @@
 //        Output: No
 //        Explanation: 1234 is not a Palindrome number because after reversing its digits, the number becomes 4321 which is different from the original number.
 //
-
 import java.util.Scanner;
 
 public class PalindromeOrNot {
@@ -14,6 +13,7 @@ public class PalindromeOrNot {
         int reverse = 0;
 
         int temp = n;
+
         while (temp != 0) {
             reverse = (reverse * 10) + (temp % 10);
             temp = temp / 10;
