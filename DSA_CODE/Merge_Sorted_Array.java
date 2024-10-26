@@ -11,7 +11,7 @@ public class Merge_Sorted_Array {
         int size1 = sc.nextInt();
         System.out.print("Enter the number of actual elements in nums1: ");
         int m = sc.nextInt();
-
+   
         // Initialize nums1 with the given size
         int[] nums1 = new int[size1];
         System.out.println("Enter the elements of nums1:");
