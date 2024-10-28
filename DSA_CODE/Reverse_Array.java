@@ -2,12 +2,11 @@ import java.util.Scanner;
 
 public class Reverse_Array {
 
-//    Input : 1, 2, 3, 4, 5
-//    Output :5, 4, 3, 2, 1
+//    Input : 1, 2, 3, 4, 5, 15
+//    Output :15, 5, 4, 3, 2, 1
 //
-//    Input :  10, 20, 30, 40
-//    Output : 40, 30, 20, 10
-
+//    Input :  10, 20, 30, 45
+//    Output : 45, 30, 20, 10
 
     static void reverse(int a[], int n)
     {
