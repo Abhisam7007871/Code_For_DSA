@@ -8,6 +8,10 @@ public class Reverse_Array {
 //    Input :  10, 20, 30, 45
 //    Output : 45, 30, 20, 10
 
+
+
+
+
     static void reverse(int a[], int n)
     {
         int[] b = new int[n];
