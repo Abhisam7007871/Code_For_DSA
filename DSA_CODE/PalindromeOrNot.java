@@ -7,6 +7,8 @@
 //
 import java.util.Scanner;
 
+
+
 public class PalindromeOrNot {
     public static boolean checkPalindrome(int n)
     {
