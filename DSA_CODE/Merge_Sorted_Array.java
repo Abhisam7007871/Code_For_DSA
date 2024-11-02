@@ -6,7 +6,6 @@ public class Merge_Sorted_Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-
         // Input size of nums1 and m (actual elements count)
         System.out.print("Enter the size of nums1: ");
         int size1 = sc.nextInt();
