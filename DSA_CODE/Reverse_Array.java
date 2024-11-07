@@ -11,7 +11,6 @@ public class Reverse_Array {
 
 
 
-
     static void reverse(int a[], int n)
     {
         int[] b = new int[n];
