@@ -7,7 +7,7 @@
 //
 import java.util.Scanner;
 
-
+// This code is for check whether the number is Palindrome or Not
 
 public class PalindromeOrNot {
     public static boolean checkPalindrome(int n)
